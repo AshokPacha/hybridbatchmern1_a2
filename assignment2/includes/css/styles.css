@@ -1,17 +1,5 @@
-/*
-
-My Custom CSS
-=============
-
-Author:  Brad Hussey
-Updated: August 2013
-Notes:	 Hand coded for Udemy.com
-
-*/
-
-
 /* --------------------------------------
-   Layout
+   									Layout
    -------------------------------------- */
 
 #features {
@@ -34,22 +22,11 @@ footer {
 }
 
 
-/* --------------------------------------
-   Typography
-   -------------------------------------- */
-
 body {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
 }
 
-.well .page-header {
-	margin-top: 0;
-}
-
-.well .page-header h1 {
-	margin-top: 0;
-}
 
 ul.unstyled {
 	list-style: none;
@@ -58,7 +35,7 @@ ul.unstyled {
 
 
 /* --------------------------------------
-   Navbar
+   										Navbar
    -------------------------------------- */
 
 #searchInput {
@@ -71,7 +48,7 @@ ul.unstyled {
 
 
 /* --------------------------------------
-   Carousel
+   								Carousel
    -------------------------------------- */
 
 #myCarousel {
@@ -102,17 +79,9 @@ ul.unstyled {
 
 
 /* --------------------------------------
-   Global Styles
+   									Global Styles
    -------------------------------------- */
 
-.alert {
-	margin-top: 20px;
-	display: none;
-}
-
-.well {
-	margin: 20px 0;
-}
 
 .tabbable img.thumbnail {
 	margin: 0 20px 10px 0;
@@ -140,7 +109,7 @@ ul.unstyled {
 
 
 /* --------------------------------------
-   Media Queries
+   						Media Queries
    -------------------------------------- */
 
 /* Portrait & landscape phone */
